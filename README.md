@@ -62,4 +62,4 @@ For educational purposes only. Generating random wallets may occasionally find e
 
 ## Author
 
-XieyeT
+XieyeT AKA dewaxyz AKA Dewa M
