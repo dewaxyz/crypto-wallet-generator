@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python crypto.py
+python3 crypto.py
 ```
 
 The script will continuously generate wallets and check balances. Found wallets are saved to `found_wallets/` directory.
